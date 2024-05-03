@@ -17,7 +17,7 @@ Oversampling Technique: To address the imbalance in the dataset, we employ overs
 
 🌸 Techniques Used
 
-Data Cleaning and Preprocessing 
-/n Exploratory Data Analysis
-/n Imbalance Handling through Oversampling
+Data Cleaning and Preprocessing  
+Exploratory Data Analysis  
+Imbalance Handling through Oversampling  
 
