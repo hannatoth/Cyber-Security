@@ -1,4 +1,4 @@
-# fraud-detection-in-transactons
+# fraud-detection-in-transactions
 
 
 🌸 Project Overview
