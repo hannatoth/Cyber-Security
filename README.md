@@ -17,10 +17,7 @@ Oversampling Technique: To address the imbalance in the dataset, we employ overs
 
 🌸 Techniques Used
 
-Data Cleaning and Preprocessing
-Exploratory Data Analysis
-Imbalance Handling through Oversampling
+Data Cleaning and Preprocessing 
+/n Exploratory Data Analysis
+/n Imbalance Handling through Oversampling
 
-🌸 Objective
-
-The goal of this project is to enhance the accuracy of fraud detection mechanisms in financial systems by using statistical analysis and machine learning techniques.
